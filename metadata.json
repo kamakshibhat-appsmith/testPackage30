@@ -1,13 +1,4 @@
 {
-  "sourceModuleList": [
-    {
-      "packageUUID": "65cf52804101c414d4bfcd13",
-      "packageName": "Untitled Package 1",
-      "moduleUUID": "65cf52804101c414d4bfcd15",
-      "moduleName": "Query1Module",
-      "version": "0.0.2"
-    }
-  ],
   "clientSchemaVersion": 1,
   "serverSchemaVersion": 7,
   "fileFormatVersion": 5
